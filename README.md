@@ -13,3 +13,6 @@ The Vagrantfile defines a multi-VM environment, where each virtual machine runs 
     🌐 Web Server (e.g., Nginx)
     
 Provisioning scripts automate the installation and configuration of these components, simulating a real-world deployment environment on your local machine.
+
+
+<img width="801" height="491" alt="Vagrant drawio" src="https://github.com/user-attachments/assets/abb90a71-ebcd-441a-aa22-ec0181d04387" />
