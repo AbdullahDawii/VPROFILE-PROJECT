@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
+  <diagram name="Page-1" id="aZdHdWPxamWGpVlCIWtw">
+    <mxGraphModel dx="983" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="70" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="430" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="340" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#67AB9F;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="111.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AQ3PGnfAEASrwdQB_Jgm-9" target="AQ3PGnfAEASrwdQB_Jgm-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="410" as="sourcePoint" />
+            <mxPoint x="200" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AQ3PGnfAEASrwdQB_Jgm-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-27" value="&lt;h2&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;vagrant init&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-30" value="&lt;b&gt;install vagrant&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AQ3PGnfAEASrwdQB_Jgm-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="sourcePoint" />
+            <mxPoint x="390" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-36" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#67AB9F;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="395" y="260" width="95" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Vagrant File&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-38" value="&lt;div&gt;Azure&lt;/div&gt;&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;GCP&lt;/div&gt;&lt;div&gt;Virtualbox&lt;/div&gt;&lt;div&gt;VMware&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#67AB9F;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="575" y="150" width="95" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-39" value="&lt;div&gt;Ansible&lt;/div&gt;&lt;div&gt;Chef&lt;/div&gt;&lt;div&gt;Scripts&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#67AB9F;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="575" y="380" width="95" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Providers&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;provisioners&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;What is&amp;nbsp;&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Vagrant?&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;Vagrant is a command-line tool that automates the creation and management of virtual machine environments .&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="320" as="sourcePoint" />
+            <mxPoint x="670" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ3PGnfAEASrwdQB_Jgm-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;í ½íº€ &lt;code data-end=&quot;19&quot; data-start=&quot;7&quot;&gt;vagrant up&lt;/code&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AQ3PGnfAEASrwdQB_Jgm-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
